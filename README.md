@@ -1,3 +1,3 @@
 # rajasri
 
-## URL: https://github.com/anm12222cs032/rajasri.git
+## URL:https://anm12222cs032.github.io/rajasri/
